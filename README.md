@@ -7,6 +7,10 @@
 ## Sobre Mim
 Sou um desenvolvedor de jogos e estudante de ciência da computação. Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemente.
 
+### Projetos Destacados:
+
+- [Portfolio](https://github.com/Luizgi/Portfolio)
+  
 ## Habilidades
 
 ### Habilidades Intermediárias
