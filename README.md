@@ -15,11 +15,10 @@
 
 ### Projetos Destacados:
 
-- [Nome do Projeto 1](link_do_projeto_1)
-- [Nome do Projeto 2](link_do_projeto_2)
+- [Portfolio](https://github.com/Luizgi/Portfolio)
 
 ### Vamos Conversar!
 
-📫 Você pode entrar em contato comigo em [seu-email@example.com].
+📫 Você pode entrar em contato comigo em [irringra@gmail.com].
 
 ⚡ Vamos bater um papo sobre qualquer um dos meus interesses!
