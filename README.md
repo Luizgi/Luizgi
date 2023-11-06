@@ -5,7 +5,8 @@
 [![Itch.io](https://img.shields.io/badge/Itch.io-Game%20Dev-green)](https://luizgi.itch.io/)
 
 ## Sobre Mim
-Sou um desenvolvedor de jogos e estudante de ciência da computação. Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemente.
+Sou um desenvolvedor de jogos e estudante de Ciência da Computação.
+Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemente.
 
 ### Projetos Destacados:
 
