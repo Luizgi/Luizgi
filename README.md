@@ -15,7 +15,7 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 - HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-lightgrey)
 - SQL/MySQL ![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-Básico-lightgrey)
 - NoSQL/MongoDB ![NoSQL/MongoDB](https://img.shields.io/badge/NoSQL/MongoDB-Básico-lightgrey)
-- C/C# ![C/C#](https://img.shields.io/badge/C/C%23-Básico-lightgrey)
+- React Native ![React Native](https://img.shields.io/badge/C/C%23-Básico-lightgrey)
 - Python ![Python](https://img.shields.io/badge/Python-Básico-lightgrey)
 
 ## Idiomas
