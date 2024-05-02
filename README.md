@@ -10,18 +10,27 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
   
 ## Habilidades
-
-### Habilidades Básicas
 - HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-lightgrey)
-  -[Como Fazer Ovos](https://github.com/Luizgi/How-to-Make-Eggs)
-  -[Projeto Mundo Invertido](https://github.com/Luizgi/Worlds-Turned-Upside-Down)
-  -[American Express](https://github.com/Luizgi/American-Express/settings)
-  -[Site ](https://github.com/Luizgi/Portfolio)
-  
+- Python ![Python](https://img.shields.io/badge/Python-Básico-lightgrey)
 - SQL/MySQL ![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-Básico-lightgrey)
 - NoSQL/MongoDB ![NoSQL/MongoDB](https://img.shields.io/badge/NoSQL/MongoDB-Básico-lightgrey)
 - React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-lightgrey)
-- Python ![Python](https://img.shields.io/badge/Python-Básico-lightgrey)
+
+### Projetos
+- HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-Green):
+  -[Como Fazer Ovos](https://github.com/Luizgi/How-to-Make-Eggs)
+  -[Projeto Mundo Invertido](https://github.com/Luizgi/Worlds-Turned-Upside-Down)
+  -[American Express](https://github.com/Luizgi/American-Express/settings)
+  -[Site Portfolio - Discontinued](https://github.com/Luizgi/Portfolio)
+  
+- React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-Green):
+  -[Star Wars App](https://github.com/Luizgi/Star-Wars-App)
+  -[Auth Flow](https://github.com/Luizgi/React-Native-Auth-Flow)
+
+
+## Aprendendo
+- C# ASP.NET ![C#](https://img.shields.io/badge/C#-Purple)
+- Docker ![Docker#](https://img.shields.io/badge/Docker-Purple)
 
 ## Idiomas
 - Inglês (Intermediário) ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue)
