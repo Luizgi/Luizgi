@@ -29,7 +29,7 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
 
 ## Aprendendo
-- C# ASP.NET ![C#](https://img.shields.io/badge/C#-Green)
+- C# ASP.NET ![C# ASP.NET](https://img.shields.io/badge/C#ASP.NET-Green)
 - Docker ![Docker](https://img.shields.io/badge/Docker-Green)
 
 ## Idiomas
