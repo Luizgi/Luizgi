@@ -37,4 +37,4 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 - Espanhol (Básico) ![Espanhol](https://img.shields.io/badge/Espanhol-Básico-blue)
 
 ## Vamos Conversar!
-Fique à vontade para entrar em contato comigo por meio do [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-de-souza-gon%C3%A7alves-aa3374160/) ou conferir meus jogos no [Itch.io](https://luizgi.itch.io/).
+Fique à vontade para entrar em contato comigo por meio do [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-de-souza-gon%C3%A7alves-aa3374160/) ou conferir meus jogos no [Itch.io](https://notsogamedev.itch.io/).
