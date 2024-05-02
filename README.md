@@ -13,6 +13,11 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
 ### Habilidades Básicas
 - HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-lightgrey)
+  . ![Como Fazer Ovos](https://github.com/Luizgi/How-to-Make-Eggs)
+  . ![Projeto Mundo Invertido](https://github.com/Luizgi/Worlds-Turned-Upside-Down)
+  . ![American Express](https://github.com/Luizgi/American-Express/settings)
+  . ![Site Portfolio - Discontinued](https://github.com/Luizgi/Portfolio)
+  
 - SQL/MySQL ![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-Básico-lightgrey)
 - NoSQL/MongoDB ![NoSQL/MongoDB](https://img.shields.io/badge/NoSQL/MongoDB-Básico-lightgrey)
 - React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-lightgrey)
