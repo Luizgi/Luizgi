@@ -26,11 +26,11 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 - React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-Green):
   -[Star Wars App](https://github.com/Luizgi/Star-Wars-App)
   -[Auth Flow](https://github.com/Luizgi/React-Native-Auth-Flow)
-
-
+  -[RPG Card Inventory](https://github.com/Luizgi/RPG-Card-Inventory)
+  
 ## Aprendendo
-- C# ASP.NET ![C# ASP.NET](https://img.shields.io/badge/C#ASP.NET-Green)
-- Docker ![Docker](https://img.shields.io/badge/Docker-Green)
+- C# ASP.NET
+- Docker 
 
 ## Idiomas
 - Inglês (Intermediário) ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue)
