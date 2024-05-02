@@ -29,8 +29,8 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
 
 ## Aprendendo
-- C# ASP.NET ![C#](https://img.shields.io/badge/C#-Purple)
-- Docker ![Docker#](https://img.shields.io/badge/Docker-Purple)
+- C# ASP.NET ![C#](https://img.shields.io/badge/C#-Green)
+- Docker ![Docker](https://img.shields.io/badge/Docker-Green)
 
 ## Idiomas
 - Inglês (Intermediário) ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue)
