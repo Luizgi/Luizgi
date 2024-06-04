@@ -11,7 +11,7 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sogoleXoX?theme=light&font=Prompt)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sogoleXoX?theme=dark&font=Prompt)
 
   
 ## Habilidades
