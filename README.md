@@ -31,7 +31,7 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
   [Site Portfolio - Discontinued](https://github.com/Luizgi/Portfolio)
   
-- React Native![React Native](https://img.shields.io/badge/ReactNative-Básico-Green):
+- React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-Green):
 
   [Star Wars App](https://github.com/Luizgi/Star-Wars-App)
 
