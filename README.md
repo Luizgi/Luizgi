@@ -25,6 +25,7 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
 ### Projetos
 - HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-Green):
+
   [Como Fazer Ovos](https://github.com/Luizgi/How-to-Make-Eggs)
 
   [Projeto Mundo Invertido](https://github.com/Luizgi/Worlds-Turned-Upside-Down)
