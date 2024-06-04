@@ -1,10 +1,9 @@
 # Olá, sou Luiz Guilherme!
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/https%3A%2F%2Fleetcode.com%2Fu%2FsogoleXoX%2F?theme=dark&font=Libre%20Barcode%2039%20Extended)
-
 ![GitHub followers](https://img.shields.io/github/followers/Luizgi?label=Seguir&style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luiz-guilherme-de-souza-gon%C3%A7alves-aa3374160/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Game%20Dev-green)](https://luizgi.itch.io/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sogoleXoX?theme=dark&font=Libre%20Barcode%2039%20Extended)
 
 ## Sobre Mim
 Sou um desenvolvedor de jogos e estudante de Ciência da Computação.
