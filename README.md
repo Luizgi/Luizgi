@@ -10,9 +10,6 @@ Sou um desenvolvedor de jogos e estudante de Ciência da Computação.
 Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemente.
 
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sogoleXoX?theme=dark&font=Prompt)
-
   
 ## Habilidades
 - HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-lightgrey)
