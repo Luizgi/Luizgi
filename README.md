@@ -20,6 +20,8 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 - SQL/MySQL ![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-Básico-lightgrey)
 - NoSQL/MongoDB ![NoSQL/MongoDB](https://img.shields.io/badge/NoSQL/MongoDB-Básico-lightgrey)
 - React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-lightgrey)
+- C# .NET ![.NET](https://img.shields.io/badge/.NET-Básico-lightgrey)
+- DOCKER ![Docker](https://img.shields.io/badge/.Docker-Básico-lightgrey)
 
 ### Projetos
 - HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-Green):
