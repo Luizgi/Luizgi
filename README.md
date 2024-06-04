@@ -41,10 +41,6 @@ Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemen
 
   [RPG Card Inventory](https://github.com/Luizgi/RPG-Card-Inventory)
   
-## Aprendendo
-- C# ASP.NET
-- Docker 
-
 ## Idiomas
 - Inglês (Intermediário) ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue)
 - Espanhol (Básico) ![Espanhol](https://img.shields.io/badge/Espanhol-Básico-blue)
