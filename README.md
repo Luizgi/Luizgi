@@ -8,6 +8,9 @@
 ## Sobre Mim
 Sou um desenvolvedor de jogos e estudante de Ciência da Computação.
 Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemente.
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sogoleXoX?theme=dark&font=Libre%20Barcode%2039%20Extended)
 
   
