@@ -6,8 +6,8 @@
 ## About me:
 I'm a Game Developer and Science Computer student. Focusing in backend Projects with C# ASP.NET, futurely want to learn more about Java and Python with Django.
 
-You can see my evolution at Backend projects here: https://github.com/stars/Luizgi/lists/backend-projects
-My games sources code you can find here: https://github.com/stars/Luizgi/lists/game-developer
+- You can see my evolution at Backend projects here: https://github.com/stars/Luizgi/lists/backend-projects
+- My games sources code you can find here: https://github.com/stars/Luizgi/lists/game-developer
   
 ## Skills:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
