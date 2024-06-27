@@ -1,47 +1,21 @@
-# Olá, sou Luiz Guilherme!
+# Hi, i'm Luiz Guilherme!
 
-![GitHub followers](https://img.shields.io/github/followers/Luizgi?label=Seguir&style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luiz-guilherme-de-souza-gon%C3%A7alves-aa3374160/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Game%20Dev-green)](https://luizgi.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-guilherme-de-souza-gon%C3%A7alves-aa3374160/)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://luizgi.itch.io/)
 
-
-## Sobre Mim
-Sou um desenvolvedor de jogos e estudante de Ciência da Computação.
-Adoro explorar novas tecnologias, criar jogos incríveis e aprender constantemente.
-
-
+## About me:
+I'm a Game Developer and Science Computer student.
   
-## Habilidades
-- HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-lightgrey)
-- Python ![Python](https://img.shields.io/badge/Python-Básico-lightgrey)
-- SQL/MySQL ![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-Básico-lightgrey)
-- NoSQL/MongoDB ![NoSQL/MongoDB](https://img.shields.io/badge/NoSQL/MongoDB-Básico-lightgrey)
-- React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-lightgrey)
-- C# .NET ![.NET](https://img.shields.io/badge/.NET-Básico-lightgrey)
-- DOCKER ![Docker](https://img.shields.io/badge/.Docker-Básico-lightgrey)
+## Skills:
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-### Projetos
-- HTML, CSS, JS ![Web Development](https://img.shields.io/badge/Web%20Development-Básico-Green):
 
-  [Como Fazer Ovos](https://github.com/Luizgi/How-to-Make-Eggs)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sogoleXoX?theme=dark&font=Prompt)
 
-  [Projeto Mundo Invertido](https://github.com/Luizgi/Worlds-Turned-Upside-Down)
-
-  [American Express](https://github.com/Luizgi/American-Express/settings)
-
-  [Site Portfolio - Discontinued](https://github.com/Luizgi/Portfolio)
-  
-- React Native ![React Native](https://img.shields.io/badge/ReactNative-Básico-Green):
-
-  [Star Wars App](https://github.com/Luizgi/Star-Wars-App)
-
-  [Auth Flow](https://github.com/Luizgi/React-Native-Auth-Flow)
-
-  [RPG Card Inventory](https://github.com/Luizgi/RPG-Card-Inventory)
-  
-## Idiomas
-- Inglês (Intermediário) ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue)
-- Espanhol (Básico) ![Espanhol](https://img.shields.io/badge/Espanhol-Básico-blue)
-
-## Vamos Conversar!
-Fique à vontade para entrar em contato comigo por meio do [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-de-souza-gon%C3%A7alves-aa3374160/) ou conferir meus jogos no [Itch.io](https://notsogamedev.itch.io/).
