@@ -7,6 +7,7 @@
 I'm a Game Developer and Computer Science student, focusing on backend projects with C# ASP.NET. I also aim to learn more about Python with Django in the future.
 
 - You can see my evolution in backend projects here: [Backend Projects](https://github.com/stars/Luizgi/lists/backend-projects)
+- You can see my evolution in frontend projects here: [Frontend Projects](https://github.com/stars/Luizgi/lists/frontend-projects)
 - My game source code can be found here: [Game Developer](https://github.com/stars/Luizgi/lists/game-developer)
 
 ## Skills
