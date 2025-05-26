@@ -25,17 +25,7 @@ Fora do expediente, dou vida a ideias como dev indie: crio jogos, brinco com API
 
 ---
 
-## 🎮 Nos projetos pessoais (Dev Indie & Game Dev)
-
-- Desenvolvimento de jogos com **Unity** (C#) e explorando **Godot**
-- Criação de SPAs com **Angular**, **MongoDB**, **Node.js** e **Express**
-- Sistemas educativos com lógica de programação visual para crianças
-- Automação e scraping para projetos pessoais e open-source
-- Cultura low code + código de verdade = produtividade com controle
-
----
-
-## 💻 Stack que eu domino
+## 💻 Stack
 
 ### Web & Automação
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
