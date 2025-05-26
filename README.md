@@ -61,11 +61,9 @@ Fora do expediente, dou vida a ideias como dev indie: crio jogos, brinco com API
 - 🧠 **[Backend Projects](https://github.com/stars/Luizgi/lists/backend-projects)** — APIs, automações, scraping e bots
 - 💡 **[Frontend Projects](https://github.com/stars/Luizgi/lists/frontend-projects)** — SPAs e componentes interativos
 - 🎮 **[Game Dev Projects](https://github.com/stars/Luizgi/lists/game-developer)** — códigos dos meus jogos
-- 📊 **Projetos de Monitoramento & Análise** — em breve...
-
 ---
 
-## 📈 Stats (só pra mostrar que a braba roda 👊🏾)
+## 📈 Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sogoleXoX?theme=dark&font=Prompt)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizgi&show_icons=true&theme=dark)
